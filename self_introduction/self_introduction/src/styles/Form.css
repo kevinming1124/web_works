@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction:row;
+    background-color: rgb(95, 95, 95);
+    
+}
+
+.title{
+    background-color: rgb(230, 173, 58);
+    text-align: left;
+    color:rgb(95, 95, 95);
+    
+    margin-bottom: 360px;
+    margin-top: 60px;
+    font-size: 60px;
+    width: 1000px;
+    margin-right: 300px;
+
+}
+
+.photo_item{
+    width: 1000000000px;
+}
+
+.photo{
+    border-radius: 50%;
+}

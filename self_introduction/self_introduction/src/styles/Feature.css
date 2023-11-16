@@ -1,0 +1,18 @@
+.feature {
+    border-style:solid;
+    border-width:medium;
+    border-radius: 20px; 
+    border-color: rgb(249, 198, 144);
+    margin-right: 27%;
+    margin-bottom: 20px;
+    
+}
+.feature .textbox{
+    text-align: left;
+    color: rgb(230, 173, 58);
+    margin-right: 10%;
+}
+
+.feature .content{
+    font-size: x-large;
+}
